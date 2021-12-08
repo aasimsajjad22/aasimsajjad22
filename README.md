@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aasim Sajjad (@aasimsajjad22)
 - 👀 I’m interested in creating projects with backend in php & golang and frontend with react
-- 🌱 I’m currently learning golang, grpc etc
+- 🌱 I’m currently looking to persue my career in golang & react.
 - 💞️ I’m looking to collaborate on golang & php projects
 - 📫 You can reach out to me at skype: aasim_tstairs or email: aasimsajjad22@gmail.com
 
